@@ -1,3 +1,15 @@
+<h1>Beach resort web page with a search function and updates possibility using Contentful .</h1>
+<h5>Check link hosted with netlify: <span> <a href="https://beach-resort-yourgurunet.netlify.app/" target="_blank">https://beach-resort-yourgurunet.netlify.app/</a> </span> </h5>
+<br/>
+<img src="images/picture-1.JPG" width="1080">
+<img src="images/picture-2.JPG" width="1080">
+<img src="images/picture-3.JPG" width="1080">
+<img src="images/picture-4.JPG" width="1080">
+<img src="images/picture-5.JPG" width="1080">
+<img src="images/picture-6.JPG" width="1080">
+<img src="images/picture-7.JPG" width="1080">
+<img src="images/picture-8.JPG" width="1080">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
