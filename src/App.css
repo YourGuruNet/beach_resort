@@ -152,6 +152,9 @@ h6 {
 .nav-links-p-close {
   display: none;
 }
+  .nav-center {
+    padding: 0.7rem;
+  }
 
 @media screen and (min-width: 830px) {
   .nav-links-p {
@@ -169,6 +172,7 @@ h6 {
     max-width: 1170px;
     margin: 0 auto;
     display: flex;
+    padding: 0.7rem;
   }
   .nav-links {
     height: auto;
